@@ -1,0 +1,16 @@
+# IDE
+.vs
+.vscode
+.idea
+
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build
+bin/
+
+# Misc
+*.cap
+imgui.ini

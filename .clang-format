@@ -1,0 +1,23 @@
+# Format Style Options - Created with Clang Power Tools
+---
+AlignAfterOpenBracket: BlockIndent
+AlignTrailingComments:
+  Kind: Always
+  OverEmptyLines: 0
+AlignArrayOfStructures: Right
+AllowAllArgumentsOnNextLine: false
+AlwaysBreakTemplateDeclarations: Yes
+BasedOnStyle: WebKit
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Allman
+ColumnLimit: 160
+Cpp11BracedListStyle: false
+FixNamespaceComments: true
+IndentPPDirectives: BeforeHash
+IndentWidth: 4
+Language: Cpp
+NamespaceIndentation: All
+SpaceBeforeCpp11BracedList: false
+SpaceBeforeParens: Never
+...
